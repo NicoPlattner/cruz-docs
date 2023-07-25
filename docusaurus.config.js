@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'CRUZ Docs',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'Testing the cd',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
