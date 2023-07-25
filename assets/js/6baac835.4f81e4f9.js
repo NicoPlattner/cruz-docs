@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[6159],{4896:e=>{e.exports=JSON.parse('{"label":"facebook","permalink":"/cruz-docs/blog/tags/facebook","allTagsPath":"/cruz-docs/blog/tags","count":1}')}}]);
